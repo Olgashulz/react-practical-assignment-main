@@ -1,0 +1,23 @@
+.font-monospace{
+    font-size: 12px;
+}
+
+.mainPage_header {
+    display: flex;
+    padding: 20px 0 0;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.mainPage_modal {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.mainPage_login {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
